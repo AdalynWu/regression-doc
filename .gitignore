@@ -1,0 +1,17 @@
+# Node 依賴環境
+node_modules/
+package-lock.json
+# 如果你有使用 pnpm 或 yarn，也請把 pnpm-lock.yaml 或 yarn.lock 加入 (但在某些場景建議 commit lockfile 以確保版本一致，依團隊習慣)
+
+# VitePress 產出目錄 (這是最重要的，不要把編譯結果 push 上去)
+.vitepress/dist/
+.vitepress/cache/
+
+# macOS 系統自動產生的檔案
+.DS_Store
+
+# IDE 設定 (例如 VS Code 的設定)
+.vscode/
+
+# 暫存檔
+*.log
