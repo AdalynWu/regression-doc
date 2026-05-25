@@ -28,8 +28,8 @@ export default defineConfig({
       text: 'Auth',
       collapsed: false,
       items: [
-        { text: '地區導流邏輯 (海外/非海外)', link: '/auth/routing' },
-        { text: '訪客與會員登入流程', link: '/auth/login' }
+        { text: 'landing page(海外/非海外)', link: '/regression/auth/landingPage' },
+        { text: '會員登入/註冊流程', link: '/regression/auth/index' }
       ]
     },
     {
