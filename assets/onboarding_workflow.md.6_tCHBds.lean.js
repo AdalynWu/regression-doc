@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as r}from"./chunks/framework.C9sp7nFj.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"onboarding/workflow.md","filePath":"onboarding/workflow.md"}'),t={name:"onboarding/workflow.md"};function a(n,s,c,d,i,f){return e(),r("div")}const _=o(t,[["render",a]]);export{p as __pageData,_ as default};
