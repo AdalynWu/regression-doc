@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/regression-doc/',
   title: "QA Team Regression Test",
   srcDir: './docs',
   description: "Web Full Test Document",

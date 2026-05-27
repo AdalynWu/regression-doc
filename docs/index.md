@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Web QA 測試中心"
   text: "Regression & Onboard Hub"
-  tagline: "每週前端版更回歸測試規範 ＆ 新人知識庫"
+  tagline: "每月前端版更回歸測試規範 ＆ 新人知識庫"
   actions:
     - theme: brand
       text: "回歸測試"
